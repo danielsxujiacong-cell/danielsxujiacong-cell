@@ -1,7 +1,7 @@
 # Handoff
 
-Status: public GitHub profile README is live at `https://github.com/danielsxujiacong-cell`, username-matching repository commit `71cf215`.
+Status: public GitHub profile is live with the confirmed name, bio, and website fields (verified through the authenticated and public GitHub user APIs on 2026-10-29).
 
-The README contains the confirmed identity positioning, five selected project links, official portfolio and Hub, and transparent AI-assisted development wording.
+The username-matching public profile README repository is `https://github.com/danielsxujiacong-cell/danielsxujiacong-cell`; README commit `71cf215`, follow-up handoff `59ae72b`.
 
-Pending: update GitHub account name, bio, and website fields after completing the GitHub CLI `user` scope device authorization. No additional social links have been added.
+Portfolio: `https://danielxu.cn/`, live at identity SEO commit `a2dc5f3`. Google Search Console shows the homepage is on Google; one indexing request after deployment was accepted. Wait for recrawl and do not resubmit.
